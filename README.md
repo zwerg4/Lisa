@@ -1,4 +1,4 @@
-# romantic-alexa
+# Lisa (aka Alexa for cool guys)
 ## Build an Artificial Assistant
 
 from tutorial of: "Programming Hero"
